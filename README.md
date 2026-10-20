@@ -545,6 +545,7 @@ cohesivity.ai offers free agent native backend services. Anonymous account (no-s
 | [thunderboltsid/mcp-nutanix](https://github.com/thunderboltsid/mcp-nutanix) | Nutanix Prism Central integration. |
 | [Shipvela](https://github.com/stefanautomateed/shipvela-codex) | Hosted OAuth MCP for creating website projects, deploying supported GitHub repositories, and inspecting deployment status and build logs. Remote endpoint: `https://shipvela.com/mcp`. |
 | [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) | DC Hub — live data-center, power, grid, fiber and deal data for agents and site selection (DCPI across 300+ markets). Remote MCP: `https://dchub.cloud/mcp` (94 tools). |
+| [gpunz/gpunz-mcp](https://github.com/gpunz/gpunz-mcp) | gpu.nz GPU cloud: find GPU servers with live prices, estimate VRAM, launch, monitor and stop ComfyUI, Ollama or vLLM servers billed by the minute. Remote MCP: `https://gpu.nz/mcp` (browsing needs no key, renting needs an API key). |
 
 ## 📊 Observability
 
